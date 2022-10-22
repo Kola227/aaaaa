@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&family=Roboto&display=swap');
+body {
+    font-size: 16px;
+    line-height: 1.6em;
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-weight: 1000;
+    color: #0f141e;
+    background: rgb(151, 151, 255);
+}
+.ava {
+    padding-left: 155px;
+}
+.avatar {
+    width: 150px;
+    border-radius: 20px;
+    box-shadow: 7px 7px 15px rgba(0, 0, 0, 0.25);
+}
+.color {
+    padding-left: 140px;
+    padding-right:180px ;
+    color: rgb(0, 0, 0);
+    font-style: italic;
+    letter-spacing: 4px;
+    
+}
+.ar {
+    border: 2px;
+    border-radius: 10px;
+    padding: 10px;
+    background: lightblue;
+}
+.one {
+    border: 2px;
+    border-radius: 10px;
+    padding: 10px;
+    background: lightblue;
+    width: 420px;
+}
+
+.two {
+    border: 2px;
+    border-radius: 10px;
+    padding: 10px;
+    background: lightblue;
+    width: 420px;
+
+}
+.three {
+    border: 2px;
+    border-radius: 10px;
+    padding: 10px;
+    background: lightblue;
+    width: 420px;
+}
+.four {
+    border: 2px;
+    border-radius: 10px;
+    padding: 10px;
+    background: lightblue;
+    width: 420px;
+}
+.five {
+    border: 2px;
+    border-radius: 10px;
+    padding: 10px;
+    background: lightblue;
+    margin: 140px;
+}
+.container {
+    max-width: 500px;
+    margin: auto;
+    color:#000000;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
